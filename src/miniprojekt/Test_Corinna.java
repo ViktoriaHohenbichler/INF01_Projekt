@@ -10,6 +10,9 @@ package miniprojekt;
  *
  * @author Corinna Melanie
  */
-public class Test_Corinna {hallo
+public class Test_Corinna {
+    public void hallo(){
+        
+    };
     
 }
