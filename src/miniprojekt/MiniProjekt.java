@@ -17,6 +17,11 @@ public class MiniProjekt {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hi");
+        Test_Iris test=new Test_Iris();
+        test.Patienten();
+        
+        
+        
     }
     
 }

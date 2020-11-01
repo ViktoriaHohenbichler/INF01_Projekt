@@ -10,5 +10,10 @@ package miniprojekt;
  * @author Iris Grießmaier
  */
 public class Test_Iris {
+   int anzahlpatient=21;
    
+   public void Patienten() {
+            System.out.println(anzahlpatient);
 }
+}
+
