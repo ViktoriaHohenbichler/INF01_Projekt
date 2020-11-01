@@ -14,5 +14,6 @@ public class Test_Vicky {
     /**
      * @param args the command line arguments
      */
+  int Belegtage;
   
 }
