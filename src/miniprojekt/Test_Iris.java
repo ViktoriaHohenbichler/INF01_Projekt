@@ -10,5 +10,12 @@ package miniprojekt;
  * @author Iris Grießmaier
  */
 public class Test_Iris {
+   public void alter(int zahl){
+       System.out.println(zahl);
+   }
+
+    public Test_Iris() {
+    }
+   
    
 }

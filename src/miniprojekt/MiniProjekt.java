@@ -5,6 +5,8 @@
  */
 package miniprojekt;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Nutzer
@@ -17,6 +19,9 @@ public class MiniProjekt {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hi");
+        
+        Test_Iris Iris = new Test_Iris();
+        Iris.alter(22);
     }
     
 }
