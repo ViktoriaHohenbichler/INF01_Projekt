@@ -13,7 +13,7 @@ public class Test_Iris {
    int anzahlpatient=21;
    
    public void Patienten() {
-            System.out.println(anzahlpatient);
+            System.out.println("Alter des Patienten "+anzahlpatient);
 }
 }
 
